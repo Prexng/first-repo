@@ -15,4 +15,4 @@ _chữ in nghiêng_
   1.bước 1
   2.bước 2
 
-[gôogle(https://www.google.com/?client=safari)]
+[gôogle](https://www.google.com/?client=safari)
